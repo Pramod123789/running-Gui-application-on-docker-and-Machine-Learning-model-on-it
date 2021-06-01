@@ -1,1 +1,1 @@
-# running-Gui-application-on-docker-and-Machine-Learning-model-on-it
+* Intsall docker and libraries before running it
