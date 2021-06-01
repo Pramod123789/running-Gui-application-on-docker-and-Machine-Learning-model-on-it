@@ -1,0 +1,1 @@
+docker run -it --name Task2 --net=host --env="DISPLAY" --volume="$HOME/ .Xauthority:/root/.Xauthority:rw" centos:latest
